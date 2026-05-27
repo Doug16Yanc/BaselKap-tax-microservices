@@ -1,0 +1,4 @@
+rootProject.name = 'BaselKap-Tax'
+
+include 'investment-ms'
+include 'tax-engine-ms'
